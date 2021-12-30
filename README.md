@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Jonas Hadi</h1>
+<h2 align="left">Hi 👋, I'm Jonas Hadi, senior software engineer with over 10 years of experience. 👋</h2>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckywebdev&label=Profile%20views&color=0e75b6&style=flat" alt="luckywebdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckywebdev" alt="luckywebdev" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-hadi-b987bb1b0/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/luckydev827)
 
 - 🔭 I’m currently working on **Blockchain applications**
 
