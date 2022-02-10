@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **react, vue, angular, nodejs, solidity, and other web and blockchain development stuff.**
 
-- 📫 How to reach me **webdevelop827@gmail.com**
-
 📈 **My GitHub Stats(2021):**
 
 <h3 align="left">Languages and Tools:</h3>
