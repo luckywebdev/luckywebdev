@@ -3,7 +3,6 @@
 <h2 align="left">Hi 👋, I'm Jonas Hadi, senior software engineer with over 10 years of experience. 👋</h2>
 <h3 align="center">A passionate full stack developer</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-hadi-b987bb1b0/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/luckydev827)
 
 - 🔭 I’m currently working on **Blockchain applications**
@@ -14,15 +13,9 @@
 
 - 🤝 I’m looking for help with **various staking and vault, eWallet, insurance, NFT collection contracts and other Defi projects**
 
-- 👨‍💻 All of my projects are available at [luckywebdev.github.io/](luckywebdev.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@webdevelop827](https://medium.com/@webdevelop827)
-
 - 💬 Ask me about **react, vue, angular, nodejs, solidity, and other web and blockchain development stuff.**
 
 - 📫 How to reach me **webdevelop827@gmail.com**
-
-- 📄 Know about my experiences [https://luckywebdev.github.io/scripts/jonas_resume.pdf](https://luckywebdev.github.io/scripts/jonas_resume.pdf)
 
 📈 **My GitHub Stats(2021):**
 
