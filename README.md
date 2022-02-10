@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋, I'm Jonas Hadi, senior software engineer with over 10 years of experience. 👋</h2>
+<h2 align="left">Hi 👋, I'm a senior software engineer with over 10 years of experience. 👋</h2>
 <h3 align="center">A passionate full stack developer</h3>
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/luckydev827)
